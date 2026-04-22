@@ -3,7 +3,7 @@
 This project is an end-to-end machine learning system for predicting bank customer churn based on a set of key features such as age, tenure, active membership, and credit score. It uses a pipeline for data ingestion, validation, transformation, model training, and evaluation. The model is deployed via a Flask web application that allows for real-time predictions.
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#project-overview)                           
 - [Features](#features)
 - [Technologies Used](#technologies-used)                        
 - [Installation](#installation)
