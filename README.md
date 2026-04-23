@@ -5,7 +5,7 @@ This project is an end-to-end machine learning system for predicting bank custom
 ## Table of Contents
 - [Project Overview](#project-overview)                           
 - [Features](#features)
-- [Technologies Used](#technologies-used)                        
+- [Technologies Used](#technologies-used)                                                 
 - [Installation](#installation)                                       
 - [Running the Application](#running-the-application)
 - [Usage](#usage)                                       
